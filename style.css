@@ -1,0 +1,31 @@
+#taskContainer{
+    margin: 5% 30% 0 30%;
+}
+#taskContainer h1{
+    color: blueviolet;
+}
+.task-item {
+    display: flex;
+    align-items: center;
+    gap: 2px;
+  }
+  
+  #newTaskInput {
+    margin-right: 10px;
+    width: 70%;
+    height: 40px;
+  }
+  
+  button {
+    padding: 13px 19px;
+    margin-top: 10px;
+    font-size: 16px;
+    background-color: rgb(233, 190, 227);
+    border: none;
+    float: right;
+  }
+  
+  #clearTasksButton {
+    margin-top: 20px;
+  }
+  
